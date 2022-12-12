@@ -30,6 +30,13 @@
 
 }
 
+.footer-text{
+  font-size: 40px;
+  font-weight: 500;
+  color: #fff;
+  margin-top: 80px;
+}
+
 .heading{
   font-size: 50px;
   color: #fff;

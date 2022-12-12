@@ -129,6 +129,9 @@ function App() {
             </div>
           </button>
         </div>
+        <footer>
+          <h1 className="footer-text">Nuron</h1>
+        </footer>
       </div>
     </div>
     
