@@ -130,7 +130,7 @@ function App() {
           </button>
         </div>
         <footer>
-          <h1 className="footer-text">Nuron</h1>
+          <h1 className="footer-text">..Nuron..</h1>
         </footer>
       </div>
     </div>
